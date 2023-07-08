@@ -1,6 +1,5 @@
 package com.anushka.newsapiclient.data.model
 
-
 import com.google.gson.annotations.SerializedName
 
 data class Source(
